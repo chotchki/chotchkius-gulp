@@ -1,0 +1,24 @@
+{
+  "name": "chotchkius-gulp",
+  "version": "1.0.0",
+  "description": "Learning how to use node.js and gulp.",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chotchki/chotchkius-gulp.git"
+  },
+  "author": "Christopher Hotchkiss",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/chotchki/chotchkius-gulp/issues"
+  },
+  "homepage": "https://github.com/chotchki/chotchkius-gulp"
+}
